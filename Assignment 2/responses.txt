@@ -1,0 +1,18 @@
+The way how data travels on the internet.
+
+-  When users enter the data, the computers break it down into packets of information. Routers receive the packets and process it, then they send the packets to the Internet.
+
+The relationship between IP address and the DNS.
+
+-  DNS is logical and IP is digital.
+DNS is a look up service that allows you to determine the IP address given a fully qualified domain name.
+
+A cookie is
+
+-   A cookie is the term given to describe a type of message that is given to a Web browser by a Web server.
+
+The three basic parts of a URL.
+
+ 1. The protocol
+ 2. Domain name
+ 3. The path
