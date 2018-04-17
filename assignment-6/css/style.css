@@ -4,7 +4,7 @@ body {
   padding:10px;
 }
 
-.Photo {
+.born {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -16,7 +16,7 @@ body {
   background-color: hsla(89, 43%, 51%, 0.3);
 }
 
-.panda{
+.Design 1{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -28,13 +28,13 @@ body {
   background-color: #d5f4e6;
 }
 
-p.panda {
+p.Design 1 {
   border-style: dotted;
   border-color: white;
   border-width: thin;
 }
 
-.panda 2{
+.Design 2{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -46,7 +46,7 @@ p.panda {
   background-color: #d5f4e6;
 }
 
-p.panda 2 {
+p.Design 2 {
   border-style: dotted;
   border-color: white;
   border-width: thin;
