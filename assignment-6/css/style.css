@@ -16,7 +16,7 @@ body {
   background-color: hsla(89, 43%, 51%, 0.3);
 }
 
-.Design 1 {
+.Design1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -28,13 +28,13 @@ body {
   background-color: #d5f4e6;
 }
 
-p.Design 1 {
+p.Design1 {
   border-style: dotted;
   border-color: white;
   border-width: thin;
 }
 
-.Design 2 {
+.Design2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -46,7 +46,7 @@ p.Design 1 {
   background-color: #d5f4e6;
 }
 
-p.Design 2 {
+p.Design2 {
   border-style: dotted;
   border-color: white;
   border-width: thin;
