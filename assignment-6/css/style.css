@@ -25,7 +25,7 @@ body {
   border-width: 3px;
   border-color: white;
   padding: 5px;
-  background-color: hsla(89, 43%, 51%, 0.3);
+  background-color: hsl(340, 100%, 70%);
 }
 
 p.Design1 {
@@ -43,7 +43,7 @@ p.Design1 {
   border-width: 3px;
   border-color: white;
   padding: 5px;
-  background-color: hsla(89, 43%, 51%, 0.3);
+  background-color: hsl(300, 100%, 70%);
 }
 
 p.Design2 {
