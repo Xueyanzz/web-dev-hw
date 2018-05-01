@@ -1,12 +1,12 @@
 @font-face {
-     font-family: 'GamjaFlower-Regular';
-     src: url('assignment-7\fonts\GamjaFlower-Regular.ttf') format('opentype');
-     font-weight: normal;
-     font-style: normal;
+  font-family: 'GamjaFlower-Regular';
+  src: url('./fonts/GamjaFlower-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
    }
 
 @font-face {
   font-family: 'Pacifico-Regular';
-  src: url('../fonts/Pacifico-Regular.ttf') format('opentype');
+  src: url('./fonts/Pacifico-Regular.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
