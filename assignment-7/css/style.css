@@ -124,7 +124,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 1em 0;
 	font-weight: bold;
-	color: yellow;
+	color: red;
 }
 
 #site-button {
@@ -133,7 +133,6 @@ h1, h2, h3, h4, h5, h6 {
 	border: 1px solid #8B0000;
 	margin: 2;
 	margin-top: 4;
-	text-shadow: 0 0 6px #FF0000;
 	background-color: #000000;
 	padding: 5px 14px;
 	vertical-align: bottom;
