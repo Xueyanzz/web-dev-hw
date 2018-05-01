@@ -4,34 +4,43 @@ body {
 	background-color: hsl(225, 100%, 60%);
 }
 
-  h3 {
-    color: #d19527;
-    text-align: center;
-    font-family: GamjaFlower-Regular;
-    font-style: normal;
-    font-size: 200%;
+  h1 {
+   text-align: center;
+   color: #d19527;
+   font-family: GamjaFlower-Regular;
+   font-size: 260%;
+   font-style: bold;
+   font-weight:500;
+   padding-top: 30px;
+   letter-spacing: 2;}
     }
 
-  h4 {
+  h2 {
     text-align: center;
+    color: #d19527;
     font-family: GamjaFlower-Regular;
-    font-weight: 400;
+    font-size: 260%;
     font-style: bold;
-    font-size: 150%
+    font-weight:500;
+    padding-top: 30px;
+    letter-spacing: 2;}
 
   }
 
-  h5 {
+  h3 {
     text-align: center;
+    color: #d19527;
     font-family: Pacifico-Regular;
-    font-weight: 400;
+    font-size: 260%;
     font-style: bold;
-    font-size: 100%
+    font-weight:500;
+    padding-top: 30px;
+    letter-spacing: 2;}
 
   }
 
 #container {
-    position: absolute;
+    position: center;
     left: 0px;
     top: 0px;
 
