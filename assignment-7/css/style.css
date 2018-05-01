@@ -7,39 +7,27 @@ body {
   h1 {
     text-align: center;
     color: #d19527;
-<<<<<<< HEAD
-    font-family: 'Gamja Flower';
-=======
-    font-family: 'GamjaFlower-Regular';
->>>>>>> parent of eca7f50... 5
+  font-family: 'Gamja Flower', cursive;
     font-size: 260%;
     font-style: bold;
     font-weight:500;
     padding-top: 30px;
     letter-spacing: 2;
-    }
+  }
 
   h2 {
     color: #d19527;
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Gamja Flower';
-=======
-    font-family: 'GamjaFlower-Regular';
->>>>>>> parent of eca7f50... 5
+    font-family: 'Gamja Flower', cursive;
     font-size: 200%;
-    }
+  }
 
   h3 {
     text-align: center;
     color: #d19527;
-<<<<<<< HEAD
-    font-family: 'Pacifico';
-=======
-    font-family: 'Pacifico-Regular';
->>>>>>> parent of eca7f50... 5
+font-family: 'Pacifico', cursive;
     font-size: 150%;
-    }
+  }
 
 #container {
     position: center;
@@ -47,7 +35,7 @@ body {
     top: 0px;
 
 	width: 90%;
-	height: 1150;
+	height: 900;
 	margin: 0 auto;
 	background-image: url("https://raw.githubusercontent.com/Xueyanzz/web-dev-hw/master/assignment-7/images/top.jpg");
   background-repeat: no-repeat;
