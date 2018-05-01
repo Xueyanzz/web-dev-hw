@@ -101,7 +101,7 @@ height:350px;
 
 a:link,
 a:visited {
-	color: #fcb83d;
+	color: #ff5050;
 	text-decoration: none;
 	font-weight: bold;
 	padding-right: 12;
@@ -112,7 +112,7 @@ a:hover {
 }
 
 a:active {
-	color: #fcb83d;
+	color: #cc0000;
 	font-weight: bold;
 }
 
