@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower|Pacifico');
+
 @font-face {
-  font-family: 'GamjaFlower-Regular', serif;
-  src: url('./fonts/GamjaFlower-Regular.ttf') format('opentype');
+  font-family: 'Gamja Flower', cursive;
+  src: url('./fonts/GamjaFlower-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   }
 
 @font-face {
-  font-family: 'Pacifico-Regular', serif;
+  font-family: 'Pacifico', cursive;
   src: url('./fonts/Pacifico-Regular.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
