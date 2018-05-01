@@ -7,7 +7,11 @@ body {
   h1 {
     text-align: center;
     color: #d19527;
+<<<<<<< HEAD
     font-family: 'Gamja Flower';
+=======
+    font-family: 'GamjaFlower-Regular';
+>>>>>>> parent of eca7f50... 5
     font-size: 260%;
     font-style: bold;
     font-weight:500;
@@ -18,14 +22,22 @@ body {
   h2 {
     color: #d19527;
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Gamja Flower';
+=======
+    font-family: 'GamjaFlower-Regular';
+>>>>>>> parent of eca7f50... 5
     font-size: 200%;
     }
 
   h3 {
     text-align: center;
     color: #d19527;
+<<<<<<< HEAD
     font-family: 'Pacifico';
+=======
+    font-family: 'Pacifico-Regular';
+>>>>>>> parent of eca7f50... 5
     font-size: 150%;
     }
 
