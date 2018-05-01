@@ -4,26 +4,6 @@ body {
 	background-color: hsl(225, 100%, 60%);
 }
 
-h1 {
-  text-align: center;
-  color: #b24321;
-  font-family: GamjaFlower-Regular;
-  font-size: 260%;
-  font-style: bold;
-  font-weight:500;
-  padding-top: 30px;
-  letter-spacing: 2;}
-
-  h2 {
-    text-align: center;
-    color: #b24321;
-    font-family: GamjaFlower-Regular;
-    font-size: 260%;
-    font-style: bold;
-    font-weight:500;
-    padding-top: 30px;
-    letter-spacing: 2;}
-
   h3 {
     color: #d19527;
     text-align: center;
