@@ -2,6 +2,7 @@
 body {
 	padding: 0;
 	background-color: hsl(225, 100%, 60%);
+  color: white;
 }
 
   h1 {
