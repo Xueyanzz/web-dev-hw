@@ -117,7 +117,7 @@ background-color: #fdfdf1;
 }
 
 .text {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	font-size: 9px;
   text-align: left;
 	color: #303f44;
@@ -149,7 +149,7 @@ background-color: #fdfdf1;
 }
 
 .header1 {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	position: absolute;
   font-size: 9px;
 	color: #303F44;
@@ -159,7 +159,7 @@ background-color: #fdfdf1;
 }
 
 .header2 {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	font-size: 9px;
 	position: absolute;
 	color: #303F44;
@@ -169,7 +169,7 @@ background-color: #fdfdf1;
 }
 
 .presentingText {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	font-size: 21.5px;
 	color: #303F44;
 	position: absolute;
@@ -184,7 +184,7 @@ background-color: #fdfdf1;
 
 
 .copy1 {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	font-size: 17px;
   position: absolute;
   text-align: justify;
@@ -196,7 +196,7 @@ background-color: #fdfdf1;
 }
 
 .copy2 {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	position: absolute;
 	font-size: 18px;
   text-align: justify;
@@ -228,7 +228,7 @@ background-color: #fdfdf1;
 }
 
 .coupon {
-	font-family: "Hoefler Text", Times, "Times New Roman", serif;
+	font-family: "Times New Roman", serif;
 	border: thin dashed #303F44;
 	position: absolute;
   padding: 10px;
